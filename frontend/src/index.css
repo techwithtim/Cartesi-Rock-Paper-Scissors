@@ -1,0 +1,33 @@
+.challenge {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+    flex: 1;
+    width: 33%;
+    align-items: center;
+}
+
+.challenges {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.center {
+    align-items: center;
+    display: flex;
+    flex-direction:column ;
+}
+
+.challengeForm {
+    padding: 20px;
+    text-align: center;
+}
+
+button {
+    margin-top: 10px;
+}
